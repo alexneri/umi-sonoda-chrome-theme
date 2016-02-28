@@ -1,0 +1,87 @@
+{
+    "name": "Love Live! - Eli Ayase",
+    "version": "1.0.2.0",
+    "manifest_version": 2,
+    "description": "A theme featuring Love Live!'s Eli Ayase in her outfit from the song Bokura wa Ima no Naka de",
+    "icons": {
+        "128": "img/icon128.png"
+    },
+    "theme": {
+        "images": {
+            "theme_frame": "img/frame.png",
+            "theme_frame_overlay": "img/frame_overlay.png",
+            "theme_toolbar": "img/theme_toolbar.png",
+            "theme_ntp_background": "img/ntp_bg.png",
+            "theme_ntp_attribution": "img/ntp_attribution.png"
+        },
+        "colors": {
+            "frame": [
+                182,
+                223,
+                240
+            ],
+            "toolbar": [
+                153,
+                51,
+                102
+            ],
+            "tab_text": [
+                255,
+                255,
+                255
+            ],
+            "tab_background_text": [
+                89,
+                68,
+                67
+            ],
+            "tab_background": [
+                62,
+                121,
+                145
+            ],
+            "bookmark_text": [
+                255,
+                255,
+                255
+            ],
+            "ntp_background": [
+                29,
+                102,
+                105
+            ],
+            "ntp_text": [
+                89,
+                68,
+                67
+            ],
+            "ntp_link": [
+                179,
+                223,
+                241
+            ],
+            "ntp_section_link": [
+                179,
+                223,
+                241
+            ],
+            "button_background": [
+                153,
+                51,
+                102
+            ]
+        },
+        "tints": {
+            "buttons": [
+                0,
+                0,
+                1
+            ]
+        },
+        "properties": {
+            "ntp_background_alignment": "top left",
+            "ntp_background_repeat": "repeat-x",
+            "ntp_logo_alternate": 1
+        }
+    }
+}
