@@ -1,6 +1,6 @@
 {
     "name": "Love Live! - Sonoda Umi",
-    "version": "0.0.1.0",
+    "version": "0.0.2.12",
     "manifest_version": 2,
     "description": "A theme featuring Love Live!'s Sonoda Umi in her special outfit",
     "icons": {
@@ -46,9 +46,9 @@
                 255
             ],
             "ntp_background": [
-                29,
-                102,
-                105
+                236,
+                253,
+                254
             ],
             "ntp_text": [
                 89,
@@ -80,7 +80,7 @@
         },
         "properties": {
             "ntp_background_alignment": "top left",
-            "ntp_background_repeat": "repeat-x",
+            "ntp_background_repeat": "no-repeat",
             "ntp_logo_alternate": 1
         }
     }
