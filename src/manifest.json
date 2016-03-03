@@ -1,8 +1,8 @@
 {
-    "name": "Love Live! - Eli Ayase",
-    "version": "1.0.2.0",
+    "name": "Love Live! - Sonoda Umi",
+    "version": "1.0.0.0",
     "manifest_version": 2,
-    "description": "A theme featuring Love Live!'s Eli Ayase in her outfit from the song Bokura wa Ima no Naka de",
+    "description": "A theme featuring Love Live!'s Sonoda Umi in her special outfit",
     "icons": {
         "128": "img/icon128.png"
     },
@@ -46,9 +46,9 @@
                 255
             ],
             "ntp_background": [
-                29,
-                102,
-                105
+                236,
+                253,
+                254
             ],
             "ntp_text": [
                 89,
@@ -80,7 +80,7 @@
         },
         "properties": {
             "ntp_background_alignment": "top left",
-            "ntp_background_repeat": "repeat-x",
+            "ntp_background_repeat": "no-repeat",
             "ntp_logo_alternate": 1
         }
     }
