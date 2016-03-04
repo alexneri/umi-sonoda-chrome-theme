@@ -1,8 +1,8 @@
 {
     "name": "Love Live! - Sonoda Umi",
-    "version": "1.0.0.0",
+    "version": "1.0.0.3",
     "manifest_version": 2,
-    "description": "A theme featuring Love Live!'s Sonoda Umi in her special outfit",
+    "description": "A theme featuring Love Live!'s Sonoda Umi in her SUNNY DAY SONG outfit.",
     "icons": {
         "128": "img/icon128.png"
     },
